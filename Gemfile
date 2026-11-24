@@ -10,7 +10,7 @@ gem "kaminari"
 gem "jwt"
 gem "bcrypt", "~> 3.1.7"
 gem "sidekiq", "~> 7.3"
-gem "redis", "~> 5.4"
+gem "redis", "~> 6.0"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
