@@ -9,7 +9,7 @@ gem "rack-cors"
 gem "kaminari"
 gem "jwt"
 gem "bcrypt", "~> 3.1.7"
-gem "sidekiq", "~> 7.3"
+gem "sidekiq", "~> 8.1"
 gem "redis", "~> 5.4"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
